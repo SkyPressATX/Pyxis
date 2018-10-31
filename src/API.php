@@ -27,6 +27,6 @@ class API
      */
     public function __construct(\Pyxis\Model\Config $config)
     {
-        $this->config = $config->getConfig();
+        $this->config = $config;
     }
 }

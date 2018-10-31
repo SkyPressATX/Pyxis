@@ -6,9 +6,6 @@ namespace Pyxis\Model;
  *
  * @since 0.1.0
  */
-class Config implements \Pyxis\Interface\Model
+class Config implements ModelInterface
 {
-    public function getConfig() :
-    {
-    }
 }

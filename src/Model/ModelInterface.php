@@ -1,10 +1,12 @@
 <?php
-namespace Pyxis\Interface;
+
+namespace Pyxis\Model;
 
 /**
  * Model Interface
  *
  * @since 0.1.0
  */
-interface Model {
+interface ModelInterface
+{
 }
